@@ -19,4 +19,15 @@ Based on their responses, it delivers:
 - Curated resources
 - Quick revision plan
   It acts like a calm, personal guide during high-pressure situations, helping students focus.
-#
+  ---
+# 🧩System overview
+The system is designed to be simple for the user, while handling all complexity in the background.
+Here’s how it works:
+1. The user fills out a short Google Form with details about their exam, topic, and difficulties  
+2. The responses are captured instantly in Google Sheets  
+3. The automation sends this data to an AI model via an HTTP request  
+4. The AI generates a personalized explanation, study plan, and resources  
+5. The generated content is stored and structured inside Notion (as a data source item)  
+6. Additional formatted content is appended to the Notion page for better readability  
+7. The final structured output is then sent to the user via email  
+Everything happens automatically, requiring minimal effort from the user while ensuring organized storage and delivery of results.
