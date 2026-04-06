@@ -33,6 +33,8 @@ Here’s how it works:
 4. The AI generates a personalized explanation, study plan, and resources  
 5. The generated content is stored and structured inside Notion (as a data source item)  
 6. Additional formatted content is appended to the Notion page for better readability  
-7. The final structured output is then sent to the user via email. 
+7. The final structured output is then sent to the user via email.
+   
 Everything happens automatically, requiring minimal effort from the user while ensuring organized storage and delivery of results.
+
 ---
