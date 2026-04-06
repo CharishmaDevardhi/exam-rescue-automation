@@ -1,4 +1,4 @@
-# 📚exam-rescue-automation
+# 📚Exam-rescue-automation
 AI-powered automation that helps students overcome exam stress by identifying key pain points 
 through a form and delivering personalized explanations with real-life analogies, exam-focused 
 insights, structured study plans, resources and quick revision tips automatically.
@@ -55,4 +55,13 @@ Gmail (delivers the final output to the user)
 
 Each step is connected through automation, ensuring a smooth flow from input to delivery without manual intervention.
 
+---
+## 💻 Tools & Technologies
+- Make (Integromat) – Automation workflow engine 
+- Google Forms – Captures student pain points
+- Google Sheets – Acts as trigger layer for Make 
+- HTTP Module – Connects the system to the AI model via API
+- Groq API (LLaMA 3.3 70B)AI-generated explanations and study plans 
+- Notion – Stores and structures generated content  
+- Gmail – Delivers formatted, personalized results to the user
 ---
