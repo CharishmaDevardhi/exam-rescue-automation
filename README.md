@@ -57,8 +57,7 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 
 ---
 ## 💻 Tools & Technologies
-- ### Make (Integromat) –
--  Automation workflow engine 
+- Make (Integromat) – Automation workflow engine 
 - Google Forms – Captures student pain points
 - Google Sheets – Acts as trigger layer for Make 
 - HTTP Module – Connects the system to the AI model via API
@@ -66,3 +65,10 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 - Notion – Stores and structures generated content  
 - Gmail – Delivers formatted, personalized results to the user
 ---
+## 🚀 Key Features
+- 🧠 Simplified explanations using real-life analogies  
+- 🎯 Exam-focused insights (what to prioritize)  
+- 📅 Personalized, time-based study plan  
+- 📚 Curated resources for faster understanding  
+- ⚡ Quick revision points for last-minute prep  
+- 📩 Automated email delivery with structured output  
