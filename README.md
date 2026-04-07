@@ -74,7 +74,7 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 - 📩 Automated email delivery with structured output  
 ---
 ## 🧠 Process flow visual (Screenshots)
-### 📥 User input
+### 📥 User input (Google Forms) 
 
 ![User Input Form](Form1.png)
 
@@ -83,22 +83,22 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 ![User Input Form](Form2.png)
 
 ---
-### 📊 Data Capture
+### 📊 Data Capture (Google Sheets)
 
 ![Response Data (Google Sheets)](Response.png)
 
 ---
-### 🔄 Automation Workflow
+### 🔄 Automation Workflow (Make)
 
 ![Automation Workflow](Workflow.png)
 
 ---
-### 🗂️ Structured Output Storage
+### 🗂️ Structured Output Storage (Notion)
 
 ![Structured Output Storage](Storage.png)
 
 ---
-## 🚀 Output
+## 🚀 Output (Gmail)
 
 ![Output](Output.png)
 
@@ -106,14 +106,14 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 
 ## 📈 Future improvements
 
- 🧠 AI-powered memory aids such as mnemonics and visual explanations (including generated visuals)
- 🎮 Gamified learning experience with streak-based progression and evolving “learning trees”
- 🎯 Adaptive starting point based on the user’s current understanding level
- 🗺️ Intelligent learning roadmap generation for focused and time-efficient preparation
- 🔁 Active recall system that prompts questions after task completion (integrated with Notion tracking)
- 📊 Productivity-based personalization by analyzing user patterns (e.g., via tools like RescueTime)
- 🧘 Smart break recommendations based on user mood and stress signals (e.g., journaling inputs)
- 🔔 Automated reminders and nudges to maintain consistency and reduce procrastination
+- 🧠 AI-powered memory aids such as mnemonics and visual explanations (including generated visuals)
+- 🎮 Gamified learning experience with streak-based progression and evolving “learning trees”
+- 🎯 Adaptive starting point based on the user’s current understanding level
+- 🗺️ Intelligent learning roadmap generation for focused and time-efficient preparation
+- 🔁 Active recall system that prompts questions after task completion (integrated with Notion tracking)
+- 📊 Productivity-based personalization by analyzing user patterns (e.g., via tools like RescueTime)
+- 🧘 Smart break recommendations based on user mood and stress signals (e.g., journaling inputs)
+- 🔔 Automated reminders and nudges to maintain consistency and reduce procrastination
  
  ---
  
