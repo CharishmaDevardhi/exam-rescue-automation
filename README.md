@@ -76,26 +76,26 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 ## 🧠 Process flow visual (Screenshots)
 ### 📥 User input
 
-![User Input Form](UserInputForm1.png)
+![User Input Form](Form1.png)
 
 ---
 
-![User Input Form](UserInputForm2.png)
+![User Input Form](Form2.png)
 
 ---
 ### 📊 Data Capture
 
-![Response Data (Google Sheets)](ResponseData(GoogleSheets).png)
+![Response Data (Google Sheets)](Response.png)
 
 ---
 ### 🔄 Automation Workflow
 
-![Automation Workflow](AutomationWorkflow.png)
+![Automation Workflow](Workflow.png)
 
 ---
 ### 🗂️ Structured Output Storage
 
-![Structured Output Storage](StructuredOutputstorage.png)
+![Structured Output Storage](Storage.png)
 
 ---
 ## 🚀 Output
