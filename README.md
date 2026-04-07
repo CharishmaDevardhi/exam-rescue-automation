@@ -11,7 +11,9 @@ Before exams, students often feel overwhelmed.
 2. Difficulty understanding certain concepts.
 3. Unable to clearly articulate doubts.
 4. Not sure what to focus on.
+   
 Even with AI tools available, stress makes it harder to think clearly.
+
 ---
 ## 🟢 What exam rescue automation solves.
 This automation bridges the gap between confusion and clarity during exam preparation.
@@ -118,7 +120,9 @@ Each step is connected through automation, ensuring a smooth flow from input to 
  ---
 ## 🔗 Explore the system
 A full demo will be shared on LinkedIn.
+
 This system is currently available on a limited basis.
+
 📩 Feel free to reach out to me on LinkedIn if you'd like to try it.
 - Linkedin : www.linkedin.com/in/jeriprolucharishmadevardhi
 
