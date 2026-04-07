@@ -117,11 +117,10 @@ Each step is connected through automation, ensuring a smooth flow from input to 
  
  ---
 ## 🔗 Explore the system
-## 🔗 Explore the System
 A full demo will be shared on LinkedIn.
 This system is currently available on a limited basis.
 📩 Feel free to reach out to me on LinkedIn if you'd like to try it.
-Linkedin : www.linkedin.com/in/jeriprolucharishmadevardhi
+- Linkedin : www.linkedin.com/in/jeriprolucharishmadevardhi
 
 
 
