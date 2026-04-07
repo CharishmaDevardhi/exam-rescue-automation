@@ -102,6 +102,22 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 
 ![Output](Output.png)
 
+---
+
+## 📈 Future improvements
+
+ 🧠 AI-powered memory aids such as mnemonics and visual explanations (including generated visuals)
+ 🎮 Gamified learning experience with streak-based progression and evolving “learning trees”
+ 🎯 Adaptive starting point based on the user’s current understanding level
+ 🗺️ Intelligent learning roadmap generation for focused and time-efficient preparation
+ 🔁 Active recall system that prompts questions after task completion (integrated with Notion tracking)
+ 📊 Productivity-based personalization by analyzing user patterns (e.g., via tools like RescueTime)
+ 🧘 Smart break recommendations based on user mood and stress signals (e.g., journaling inputs)
+ 🔔 Automated reminders and nudges to maintain consistency and reduce procrastination
+ 
+ ---
+ 
+
 
 
 
