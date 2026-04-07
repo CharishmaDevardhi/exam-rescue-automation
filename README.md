@@ -72,3 +72,8 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 - 📚 Curated resources for faster understanding  
 - ⚡ Quick revision points for last-minute prep  
 - 📩 Automated email delivery with structured output  
+---
+## 🧠 Process flow visual (Screenshots)
+### 📥 User input
+
+
