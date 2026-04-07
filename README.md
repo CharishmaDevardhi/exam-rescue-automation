@@ -111,13 +111,17 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 - 🎯 Adaptive starting point based on the user’s current understanding level
 - 🗺️ Intelligent learning roadmap generation for focused and time-efficient preparation
 - 🔁 Active recall system that prompts questions after task completion (integrated with Notion tracking)
-- 📊 Productivity-based personalization by analyzing user patterns (e.g., via tools like RescueTime)
+- 📊 Productivity-based personalization by analyzing user patterns (e.g., via tools like RescueTime)                  
 - 🧘 Smart break recommendations based on user mood and stress signals (e.g., journaling inputs)
 - 🔔 Automated reminders and nudges to maintain consistency and reduce procrastination
  
  ---
- 
-
+## 🔗 Explore the system
+## 🔗 Explore the System
+A full demo will be shared on LinkedIn.
+This system is currently available on a limited basis.
+📩 Feel free to reach out to me on LinkedIn if you'd like to try it.
+Linkedin : www.linkedin.com/in/jeriprolucharishmadevardhi
 
 
 
