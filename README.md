@@ -63,7 +63,7 @@ Each step is connected through automation, ensuring a smooth flow from input to 
 - Google Forms – Captures student pain points
 - Google Sheets – Acts as trigger layer for Make 
 - HTTP Module – Connects the system to the AI model via API
-- Groq API (LLaMA 3.3 70B)AI-generated explanations and study plans 
+- Groq API (LLaMA 3.3 70B) - AI-generated explanations and study plans 
 - Notion – Stores and structures generated content  
 - Gmail – Delivers formatted, personalized results to the user
 ---
@@ -119,7 +119,7 @@ Each step is connected through automation, ensuring a smooth flow from input to 
  
  ---
 ## 🔗 Explore the system
-A full demo will be shared on LinkedIn.
+A full demo is shared on LinkedIn.
 
 This system is currently available on a limited basis.
 
